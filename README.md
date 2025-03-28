@@ -5,12 +5,14 @@ I am a software developer specializing in web development My hands-on experience
 
 Here's a list of my tech stack and skills:
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Express](https://img.shields.io/badge/-Express-%2320232a?style=for-the-badge&logo=Express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/React-089cc4?style=for-the-badge&logoColor=white) 
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logoColor=white) 
 
-My Profile:
+![Stats](https://github-readme-stats.vercel.app/api?username=dimasgda&show_icons=true&theme=radical) 
+
+Check my profile:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimasgda)
