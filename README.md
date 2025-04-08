@@ -1,7 +1,7 @@
 Hello there 👋,
 
 
-I am a software developer specializing in web development My hands-on experience includes an internship at a software house, working on freelance web development projects, and leading web development teams. I am committed to continuous learning and staying up-to-date with the latest technologies in the software development industry.
+I am a software developer specializing in web development. My hands-on experience includes an internship at a software house, working on freelance web development projects, and leading web development teams. I am committed to continuous learning and staying up-to-date with the latest technologies in the software development industry.
 
 Here's a list of my tech stack and skills:
 
@@ -13,6 +13,8 @@ Here's a list of my tech stack and skills:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dimasgda&show_icons=true&theme=radical) 
 
-Check my profile:
+Hit me up:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimasgda)
+[![X](https://img.shields.io/badge/-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dimasgda)
+
