@@ -18,3 +18,9 @@ Hit me up:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimasgda)
 [![X](https://img.shields.io/badge/-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dimasgda)
 
+Other code:
+
+<a href="https://gitlab.com/ddim03" alt="Gitlab">
+  <img src="https://img.shields.io/badge/Gitlab-FF2D20?style=for-the-badge&logoColor=white)" />
+</a>
+
