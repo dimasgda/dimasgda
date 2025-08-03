@@ -1,6 +1,6 @@
 Hello there 👋,
 
-I am a software developer specializing in web development My hands-on experience includes an internship at a software house, working on freelance web development projects, and leading web development teams. I am committed to continuous learning and staying up-to-date with the latest technologies in the software development industry.
+1,9+ year experiences as a web developer. completed 5+ project including information system, internal tools, and mini ERP. I am committed to continuous learning and staying up-to-date with the latest technologies in the software development industry.
 
 Here's a list of my tech stack and skills:
 
