@@ -1,6 +1,6 @@
 Hello there 👋,
 
-1,9+ year experiences as a web developer. completed 5+ project including information system, internal tools, and mini ERP. I am committed to continuous learning and staying up-to-date with the latest technologies in the software development industry.
+I am a software developer specializing in web development. I am committed to continuous learning and staying up-to-date with the latest technologies in the software development industry.
 
 Here's a list of my tech stack and skills:
 
